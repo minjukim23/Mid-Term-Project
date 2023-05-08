@@ -1,0 +1,47 @@
+h1 {
+    color: rgb(26, 9, 17);
+    text-align : center;
+    border: rgb(55, 96, 190) 5px solid;
+    padding: 0.3em;
+  }
+h2 {
+  color: gray;
+  font-weight: bold;
+  font-size: larger;
+}
+  
+  h3 {
+    font-style: italic;
+  }
+  
+  ul {
+    background-color: #eeeeee;
+    border: purple 5px solid;
+    padding: 2em;
+  }
+ 
+  a:hover{
+      color: rgb(255, 121, 11);
+  }
+ 
+  .job-title{
+      color: gray;
+      font-weight: bold;
+      font-size: larger;
+  }
+  .club_list{
+    width:675px;
+  }
+  .club{
+    width:225px;
+    text-align:center;
+    display:block;
+    color:#545454;
+    text-decoration:none;
+    float:left;
+  }
+  .club_name{
+    margin-top:10px;
+    margin-bottom:4px;
+    color:black
+  }
